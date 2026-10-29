@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: drift-manager
+Version: 0.1.0
+Summary: Multi-Stack Drift Manager: bulk CloudFormation drift detection and reconciliation.
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pytest==8.3.4; extra == "dev"
+Requires-Dist: hypothesis==6.122.3; extra == "dev"
